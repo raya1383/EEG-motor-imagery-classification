@@ -40,6 +40,7 @@ def main():
         out_path,
         X_8_30 = X_8_30,
         X_mu = X_mu,
+        X_beta = X_beta,
         y = y,
         fs = fs
 
