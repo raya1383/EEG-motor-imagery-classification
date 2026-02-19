@@ -1,0 +1,9 @@
+# datasets
+data/
+*.npz
+*.npy
+*.mat
+
+# python cache
+__pycache__/
+*.pyc
